@@ -17,7 +17,7 @@
 
 ### 🌐 Connect with Me
 ---
-[![LinkedIn](https://www.linkedin.com/in/teja-yavvari-9603a229b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/teja-yavvari-9603a229b)
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Teja_tej?ext=contest)
