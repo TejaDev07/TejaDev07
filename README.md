@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 Currently learning **DevOps**, **Cloud Functions (GCF)**, and **Smart Contract Development**
+- 🌱 Currently learning **DevOps**,
 - 🛠️ Skilled in `Next.js`, `React`, `Node.js`, `MongoDB`and `Tailwind CSS`,`javascript`
 - 🔭 Building real-world projects using **Web3**, **AI integrations**, and **Serverless architectures**
 - 📫 Reach me at **tejteja259@gmail.com**
