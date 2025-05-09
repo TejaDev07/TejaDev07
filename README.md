@@ -20,6 +20,8 @@
 [![LinkedIn](https://www.linkedin.com/in/teja-yavvari-9603a229b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![leetcode](https://leetcode.com/u/Teja_tej/)
+
+---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/teja tej?ext=contest)
 ---
 
